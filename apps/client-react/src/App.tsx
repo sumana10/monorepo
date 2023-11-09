@@ -17,7 +17,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Minds are like parachutes. They only function when open.</h1>
+      <h1>He who lives in harmony with himself lives in harmony with the world.</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
