@@ -1,4 +1,4 @@
-### Monorepo
+### What contains in monorepo
 The monorepo contains
  - An express backend
  - A React frontend
